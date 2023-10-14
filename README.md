@@ -11,7 +11,17 @@ I'm mainly working on JavaScript environment.
 `Website` - [sullivantobias.github.io](https://sullivantobias.github.io)
 
 ---
+`This New Account` 
+<div>
+    <a href="https://github.com/sullytobias">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullytobias&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" alt=sullivan />
+  </a>
+  <a href="https://github.com/sullytobias">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sullytobias&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" alt=sullivan />
+  </a>
+</div>
 
+`Old Account` 
 <div>
     <a href="https://github.com/sullivantobias">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullivantobias&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" alt=sullivan />
