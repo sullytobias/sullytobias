@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction">React Three Fiber</a> & <a href="https://ondras.github.io/rot.js/hp/">ROT.js</a>
+  🌱 I’m currently learning <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction">React Three Fiber</a> & <a href="https://tailwindcss.com/">Tailwind CSS</a>
 </p>
 
 <p align="center">
